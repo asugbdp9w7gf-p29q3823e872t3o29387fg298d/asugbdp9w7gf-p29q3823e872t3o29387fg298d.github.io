@@ -4,4 +4,5 @@ var playerDev = {
     "003VacCat" : "Developer",
     "004_bt" : "Developer",
     "005Not_Hax" : "Developer"
+    "006M3dusa" : "Developer"
 }
